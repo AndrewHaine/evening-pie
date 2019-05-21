@@ -1,0 +1,15 @@
+# \_O___/
+#    \__
+#    |  \,
+#   /      [node_modules]
+
+# Node/NPM
+/node_modules/
+/npm-debug.log
+
+# MacOS
+*.DS_Store
+
+# NextJS
+.next/
+out/
